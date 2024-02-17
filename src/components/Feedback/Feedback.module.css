@@ -1,0 +1,14 @@
+.list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .item {
+    margin-bottom: 20px;
+  }
+  
+  .item p {
+    margin: 5px 0;
+  }
+  
+  
